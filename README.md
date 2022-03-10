@@ -15,8 +15,11 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: (<https://your-solution-url.com>)
-- Live Site URL: (<https://your-live-site-url.com>)
+- Solution URL: (<https://github.com/Crisscoder/Card_Component>)
+- Live Site URL: (<https://crisscoder.github.io/Card_Component/>)
+
+## Resources
+- Youtube: 5 Formas de Centrar con CSS https://www.youtube.com/watch?v=Hd3Z_i3vq0w&t=549s
 
 ## Built with
 
