@@ -15,7 +15,7 @@ Users should be able to:
 
 ## Links
 
-- Solution URL: (<https://github.com/Crisscoder/Card_Component>)
+- Solution URL: (<https://github.com/Crisscde/Card_Component>)
 - Live Site URL: (<https://crisscoder.github.io/Card_Component/>)
 
 ## Resources
